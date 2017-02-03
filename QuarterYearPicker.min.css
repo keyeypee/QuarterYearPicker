@@ -1,0 +1,2 @@
+/* Month Year picker | (c) Kuldeep Patel|Developer */
+.qPickerParent{position:relative;display:inline-block;}.quarterInput{display:inline-block}.qPicker{display:none;position:absolute;left:0;top:0;border:1px solid #aaa;z-index:100}.yearWrap{background-color:#999;padding:5px 10px}.yearHead{display:inline-block;text-align:left}.yearValue{display:inline-block}.qWrap{padding:2px 1px;overflow:auto}.quarter{display:inline-block;width:46%;float:left;text-align:center;background-color:#ccc;margin:2px 2px;cursor:pointer}.quarter:hover{background-color:#999}
